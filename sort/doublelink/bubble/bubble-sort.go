@@ -84,6 +84,5 @@ func main(){
     fmt.Println("Sorted List")
     dll.printList()
 	
-// 	fmt.Println("Print list in reverse")
-// 	dll.printListReverse()
+
 }
