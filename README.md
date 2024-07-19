@@ -9,7 +9,7 @@ Welcome to my repository for practicing Data Structures and Algorithms (DSA) usi
 - ✅ Linked Lists
 - ✅ Stacks
 - ✅ Queues
-- 🔄 Trees
+- ✅ Trees
 - 🔄 Graphs
 - 🔄 Hash Tables
 
